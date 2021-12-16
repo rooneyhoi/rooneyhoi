@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rooneyhoi
+- 👋 Hi, I’m Binh
 - 👀 I’m interested in Frontend development 
 - 🌱 I’m currently learning JS, HTML Game development, ReactJS
 - 💞️ I’m looking to collaborate on ...
