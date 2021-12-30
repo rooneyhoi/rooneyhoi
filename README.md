@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Binh
 - 👀 I’m interested in Frontend development 
-- 🌱 I’m currently learning JS, HTML Game development, ReactJS
+- 🌱 I’m currently working on JS, HTML Game development, ReactJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
