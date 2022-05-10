@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Binh
+- 👋 Hi, I’m Dax
 - 👀 I’m interested in Frontend development 
 - 🌱 I’m currently working on JS, HTML Game development, ReactJS
 - 💞️ I’m looking to collaborate on ...
